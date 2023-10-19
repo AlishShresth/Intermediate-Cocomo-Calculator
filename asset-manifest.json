@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intermediate-Cocomo-Calculator/static/css/main.ff7379e7.css",
+    "main.js": "/Intermediate-Cocomo-Calculator/static/js/main.e475338c.js",
+    "index.html": "/Intermediate-Cocomo-Calculator/index.html",
+    "main.ff7379e7.css.map": "/Intermediate-Cocomo-Calculator/static/css/main.ff7379e7.css.map",
+    "main.e475338c.js.map": "/Intermediate-Cocomo-Calculator/static/js/main.e475338c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7379e7.css",
+    "static/js/main.e475338c.js"
+  ]
+}
